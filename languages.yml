@@ -1,0 +1,6 @@
+C#:
+  frameworks:
+    - WinForms
+    - HtmlAgilityPack
+    - Interop.Excel.dll
+SQL Server:
